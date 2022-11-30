@@ -1,5 +1,5 @@
 {
-    "name": "SetTime",
+    "name": "Calendar server",
     "description": "",
     "dependencies": {
         "core": "*",
